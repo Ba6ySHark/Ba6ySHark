@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-stepan.susorov@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stepan.susorov@gmail.com)](mailto:stepan.susorov@gmail.com)
 - 🎓 Currently studying <a href="https://science.ucalgary.ca/computer-science">Computer Science</a>
 - 🔧 Enjoy working on different projects
-- 🎯 Portfolio Website: [GithubPage](ba6yshark.github.io)
+- 🎯 Portfolio Website: [GithubPage](https://ba6yshark.github.io)
 
 ### Things I Like:
 - 💻 Coding
