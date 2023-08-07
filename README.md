@@ -1,4 +1,4 @@
-![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+![Matrix SVG](https://raw.githubusercontent.com/Ba6ySHark/Ba6ySHark/main/readmebg.svg)
 
 ### Hi 👋, I'm Stepan Susorov, an Undergraduate Student at the <a href="https://www.ucalgary.ca/">University of Calgary</a>
 [![Gmail Badge](https://img.shields.io/badge/-stepan.susorov@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stepan.susorov@gmail.com)](mailto:stepan.susorov@gmail.com)
