@@ -11,7 +11,7 @@
 - I'm proficient in these:
   **Python, JavaScript**
 - I'm familiar with these:
-  **Java, C++, React, Django**
+  **Java, C++, React, Django, SQLite3**
 - I also use **Git** for version control
 
 ### Things I Like:
