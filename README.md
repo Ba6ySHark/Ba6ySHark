@@ -9,9 +9,9 @@
 
 ### Things I Use:
 - I'm proficient in these:
-  **Python, JavaScript**
+  **Python, JavaScript, React**
 - I'm familiar with these:
-  **Java, C++, React, Django, SQLite3**
+  **Java, C++, Django, TailwindCSS, SQLite3**
 - I also use **Git** for version control
 
 ### Things I Like:
