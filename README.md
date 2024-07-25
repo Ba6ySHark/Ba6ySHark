@@ -11,7 +11,7 @@
 - I'm proficient in these:
   **Python, JavaScript, TypeScript, React, TailwindCSS**
 - I'm familiar with these:
-  **Java, C++, Django, React Native, SQLite3**
+  **Java, C++, Django, React Native, SQL**
 - I also use **Git** for version control
 
 ### Things I Like:
